@@ -42,4 +42,6 @@ Does not support inheritance|	Supports inheritance|	Supports inheritance|
 * 9.arrays.go
 * 10.slices.go
 * 11.struct.go
-* 12.functions.go
+* 12.maps.go
+* 13.functions.go
+* 14.functions-1.go

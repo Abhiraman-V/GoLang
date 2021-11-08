@@ -29,3 +29,17 @@ Does not support inheritance|	Supports inheritance|	Supports inheritance|
 ---
 
 
+# Go
+
+* 1.helloworld.go
+* 2.datatypes.go
+* 3.variables.go
+* 4.constant.go
+* 5.control.go
+* 6.operators.go
+* 7.loops.go
+* 8.switch.go
+* 9.arrays.go
+* 10.slices.go
+* 11.struct.go
+* 12.functions.go

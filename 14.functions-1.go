@@ -44,5 +44,4 @@ func main() {
 	func() {
 		fmt.Println("An anonymous function is also known as function literal.")
 	}()
-
 }
